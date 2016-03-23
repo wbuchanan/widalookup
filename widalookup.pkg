@@ -1,0 +1,27 @@
+d 'WIDALOOKUP': A package for working with WIDA ACCESS data
+d
+d Currently only used for parsing, prepping, and loading data for percentile 
+d growth band lookup tables.
+d
+d KW: Education
+d KW: Assessment
+d KW: WIDA
+d KW: EL
+d KW: ACCESS
+d
+d Requires: Stata version 14.1
+d
+d Distribution-Date:20160323
+d
+d Author: Billy Buchanan
+d         Data Scientist
+d         Office of Research, Evaluation, and Assessment
+d         Minneapolis Public Schools
+d 
+d 
+d Support: email William [dot] Buchanan AT mpls [dot] k12 [dot] mn [dot] us
+d
+f widalookup.ado
+f widalookup.sthlp
+
+
